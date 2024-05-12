@@ -1,0 +1,15 @@
+C:\temp2\DesafioProjetoCelular\bin\Debug\net6.0\DesafioProjetoCelular.exe
+C:\temp2\DesafioProjetoCelular\bin\Debug\net6.0\DesafioProjetoCelular.deps.json
+C:\temp2\DesafioProjetoCelular\bin\Debug\net6.0\DesafioProjetoCelular.runtimeconfig.json
+C:\temp2\DesafioProjetoCelular\bin\Debug\net6.0\DesafioProjetoCelular.dll
+C:\temp2\DesafioProjetoCelular\bin\Debug\net6.0\DesafioProjetoCelular.pdb
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\DesafioProjetoCelular.csproj.AssemblyReference.cache
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\DesafioProjetoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\DesafioProjetoCelular.AssemblyInfoInputs.cache
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\DesafioProjetoCelular.AssemblyInfo.cs
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\DesafioProjetoCelular.csproj.CoreCompileInputs.cache
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\DesafioProjetoCelular.dll
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\refint\DesafioProjetoCelular.dll
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\DesafioProjetoCelular.pdb
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\DesafioProjetoCelular.genruntimeconfig.cache
+C:\temp2\DesafioProjetoCelular\obj\Debug\net6.0\ref\DesafioProjetoCelular.dll
